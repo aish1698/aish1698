@@ -5,8 +5,8 @@ I’m Aishwarya 👨🏻‍💻
 
                                                                              About Me 💁🏻‍♂️
                                         🔭 I’m currently working on Full-Stack Development (MERN stack | MEAN stack)
-                                        🌱 I’m currently learning Datastage Development,ETL
-                                        🤔 I’m looking for help with Datastage
+                                        🌱 I’m currently learning Microsoft Azure Datafactory,ETL
+                                        🤔 I’m looking for help with Microsoft Azure Databricks, Azure Datafactory
                                         💬 Ask me about Algorithms and Data Structures
                                         📫 How to reach me: @aishwaryapani on most of the major social platforms
 
